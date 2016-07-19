@@ -1,0 +1,18 @@
+.ne{
+  background: green;
+  width: 500px;
+  margin: auto;
+  overflow: hidden;
+}
+.nr{
+  width: 400px;
+  height: 500px;
+  float:left;
+  background: orange;
+}
+aside{
+  width: 100px;
+  height: 500px;
+  float: left;
+  background: pink;
+}

@@ -1,0 +1,12 @@
+a{
+  color:rg(200,100);text-decoration:none
+}
+h1{
+  text-align: center;
+  font-family:sans-serif;
+}
+div{
+  margin:auto;
+  width: 500px;
+  background: rgb(50,100,30);
+}
