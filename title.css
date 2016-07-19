@@ -1,0 +1,12 @@
+body{
+  background: #666;
+  font-size: 50px;
+  font-family: arial;
+  margin-top: 50px;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-shadow:
+  2px 5px 3px white,
+  1px 3px 2px pink; 
+}
