@@ -1,0 +1,14 @@
+form li{
+  list-style: none;
+  margin-bottom: 20px;
+}
+label{
+  display: block;
+  cursor: pointer;
+  color: blue;
+
+padding-bottom: 20px;
+}
+form ul{
+  padding-left: 0;
+}
