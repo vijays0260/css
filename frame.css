@@ -1,0 +1,18 @@
+.container_12{
+  background: red;
+}
+nav li{
+  display: inline;
+}
+aside{
+  background: green;
+}
+.primary{
+  background: grey;
+}
+nav{
+  background: yellow;
+}
+h1{
+  background: orange;
+}

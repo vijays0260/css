@@ -1,0 +1,32 @@
+body{
+  background: url("bg.jpg");
+  margin: 0;
+  font-family: arial;
+}
+.header{
+
+  height: 99px;
+  width: 960px;
+
+  background: white;
+}
+
+
+nav a{
+  padding-top: 10px;
+
+}
+.kk{
+  padding: 35px;
+margin: 0;
+
+text-align: center;
+width: 610px;
+position: relative;
+float: right;
+}
+
+nav li{
+  display: inline;
+
+}
