@@ -1,28 +1,49 @@
 body{
-  background: url("bg.jpg");
+  background:#AEE7F7;
   margin: 0;
   font-family: arial;
 }
-.header{
-
+header{
+margin:-20px;
   height: 99px;
   width: 960px;
-
-  background: white;
+position: fixed;
+  background:#C3C8C9;
 }
 
+header h1{
+  padding-top: 20px;
+  font-size: 40px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-shadow:
+  1px 3px 2px white;
 
+  font-family: arial;
+}
+.head{
+
+}
 nav a{
-  padding-top: 10px;
-
+  padding-top: 20px;
+  padding-right: 20px;
+padding-left: 20px;
+text-decoration: none;
+color: black;
 }
-.kk{
+nav a:hover{
+  color:#EF4B53;
+}
+nav a:hover{
+text-decoration: underline;
+}
+.home{
   padding: 35px;
 margin: 0;
 
 text-align: center;
 width: 610px;
-position: relative;
+
 float: right;
 }
 
@@ -30,3 +51,45 @@ nav li{
   display: inline;
 
 }
+.smart{
+  padding-top: 130px;
+  font-size: 24px;
+  color: grey;
+}
+.sony{
+  width:50px;
+  height:50px;
+}
+
+section p{
+  padding-left: 70px;
+  margin: auto;
+}
+section a{
+  text-decoration: none;
+  color:black;
+}
+section a:hover{
+  text-decoration: underline;
+}
+.main{
+  background:white;
+}
+.wrap{
+  background:white;
+}
+.dual{
+  font-family: inherit;
+  color:grey;
+  font-size: 15px;
+}
+.desc{
+
+  padding-left: 70px;
+  color:grey;
+  font-size: 13px;
+}
+ section ul{
+   padding-top: 10px;
+   list-style: circle;
+ }
