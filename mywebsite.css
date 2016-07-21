@@ -1,7 +1,8 @@
 body{
-  background:#AEE7F7;
+  background:url('bg2.jpg');
+
   margin: 0;
-  font-family: arial;
+  font-family:'Cabin',sans-serif;
 }
 header{
 margin:-20px;
@@ -19,10 +20,11 @@ header h1{
   text-shadow:
   1px 3px 2px white;
 
-  font-family: arial;
 }
-.head{
-
+/*.mobile{
+  text-decoration: none;
+  color: black;
+*/
 }
 nav a{
   padding-top: 20px;
@@ -53,8 +55,8 @@ nav li{
 }
 .smart{
   padding-top: 130px;
-  font-size: 24px;
-  color: grey;
+  font-size: 30px;
+  color: #D5CF60;
 }
 .sony{
   width:50px;
@@ -71,15 +73,18 @@ section a{
 }
 section a:hover{
   text-decoration: underline;
+  color: red;
 }
 .main{
   background:white;
+
 }
 .wrap{
   background:white;
+  padding-bottom:20px;
 }
 .dual{
-  font-family: inherit;
+
   color:grey;
   font-size: 15px;
 }
@@ -93,3 +98,6 @@ section a:hover{
    padding-top: 10px;
    list-style: circle;
  }
+footer{
+  background: #C3C8C9;
+}
