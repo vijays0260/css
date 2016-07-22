@@ -2,7 +2,7 @@ body{
   background:url('bg2.jpg');
 
   margin: 0;
-  font-family:'Cabin',sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 header{
 margin:-20px;
@@ -21,11 +21,8 @@ header h1{
   1px 3px 2px white;
 
 }
-/*.mobile{
-  text-decoration: none;
-  color: black;
-*/
-}
+
+
 nav a{
   padding-top: 20px;
   padding-right: 20px;
@@ -82,6 +79,7 @@ section a:hover{
 .wrap{
   background:white;
   padding-bottom:20px;
+
 }
 .dual{
 
@@ -100,4 +98,18 @@ section a:hover{
  }
 footer{
   background: #C3C8C9;
+}
+section h1{
+  text-align: center;
+
+}
+.last{
+  background: white;
+
+}
+.cp{
+  padding-right: 10px;
+  padding-left: 0;
+  color: grey;
+  text-align: justify;
 }
